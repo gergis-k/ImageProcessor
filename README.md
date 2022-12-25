@@ -8,4 +8,4 @@ Digital image processing final lab project.
 - Add (Merge) two images.
 - Convert to (red, green, blue).
 - Convert to gray scale.
-- Calulate the histogram.
+- Calculate the histogram.
